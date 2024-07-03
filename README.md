@@ -1,2 +1,2 @@
-# hng-internship
-HNG Internship Task
+# HNG Internship
+HNG Internship Tasks
