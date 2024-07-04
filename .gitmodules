@@ -4,6 +4,3 @@
 [submodule "backend-track/01-hello-api"]
 	path = backend-track/01-hello-api
 	url = git@github.com:namestarlit/01-hello-api.git
-[submodule "devops-track/00-deploy-static-website"]
-	path = devops-track/00-deploy-static-website
-	url = git@github.com:namestarlit/00-deploy-static-website.git
