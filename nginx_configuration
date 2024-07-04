@@ -1,0 +1,13 @@
+server {
+	listen	80;
+	listen [::]:80;
+
+	server_name ec2-107-21-194-51.compute-1.amazonaws.com;
+
+	root /var/www/hng-internship;
+	index index.html;
+
+	location / {
+		try_files $uri $uri/ =404;
+	}
+}
