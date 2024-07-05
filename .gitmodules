@@ -1,6 +1,0 @@
-[submodule "backend-track/0-hello-api"]
-	path = backend-track/0-hello-api
-	url = https://github.com/namestarlit/0-hello-api
-[submodule "backend-track/01-hello-api"]
-	path = backend-track/01-hello-api
-	url = git@github.com:namestarlit/01-hello-api.git
